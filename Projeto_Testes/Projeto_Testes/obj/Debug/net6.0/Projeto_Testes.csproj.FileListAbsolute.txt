@@ -1,0 +1,15 @@
+D:\Jaqueline\_git\senai-uc15_testes_back-end\Projeto_Testes\Projeto_Testes\bin\Debug\net6.0\Projeto_Testes.exe
+D:\Jaqueline\_git\senai-uc15_testes_back-end\Projeto_Testes\Projeto_Testes\bin\Debug\net6.0\Projeto_Testes.deps.json
+D:\Jaqueline\_git\senai-uc15_testes_back-end\Projeto_Testes\Projeto_Testes\bin\Debug\net6.0\Projeto_Testes.runtimeconfig.json
+D:\Jaqueline\_git\senai-uc15_testes_back-end\Projeto_Testes\Projeto_Testes\bin\Debug\net6.0\Projeto_Testes.dll
+D:\Jaqueline\_git\senai-uc15_testes_back-end\Projeto_Testes\Projeto_Testes\bin\Debug\net6.0\Projeto_Testes.pdb
+D:\Jaqueline\_git\senai-uc15_testes_back-end\Projeto_Testes\Projeto_Testes\obj\Debug\net6.0\Projeto_Testes.csproj.AssemblyReference.cache
+D:\Jaqueline\_git\senai-uc15_testes_back-end\Projeto_Testes\Projeto_Testes\obj\Debug\net6.0\Projeto_Testes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jaqueline\_git\senai-uc15_testes_back-end\Projeto_Testes\Projeto_Testes\obj\Debug\net6.0\Projeto_Testes.AssemblyInfoInputs.cache
+D:\Jaqueline\_git\senai-uc15_testes_back-end\Projeto_Testes\Projeto_Testes\obj\Debug\net6.0\Projeto_Testes.AssemblyInfo.cs
+D:\Jaqueline\_git\senai-uc15_testes_back-end\Projeto_Testes\Projeto_Testes\obj\Debug\net6.0\Projeto_Testes.csproj.CoreCompileInputs.cache
+D:\Jaqueline\_git\senai-uc15_testes_back-end\Projeto_Testes\Projeto_Testes\obj\Debug\net6.0\Projeto_Testes.dll
+D:\Jaqueline\_git\senai-uc15_testes_back-end\Projeto_Testes\Projeto_Testes\obj\Debug\net6.0\refint\Projeto_Testes.dll
+D:\Jaqueline\_git\senai-uc15_testes_back-end\Projeto_Testes\Projeto_Testes\obj\Debug\net6.0\Projeto_Testes.pdb
+D:\Jaqueline\_git\senai-uc15_testes_back-end\Projeto_Testes\Projeto_Testes\obj\Debug\net6.0\Projeto_Testes.genruntimeconfig.cache
+D:\Jaqueline\_git\senai-uc15_testes_back-end\Projeto_Testes\Projeto_Testes\obj\Debug\net6.0\ref\Projeto_Testes.dll
